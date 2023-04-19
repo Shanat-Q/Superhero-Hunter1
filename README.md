@@ -2,4 +2,4 @@
 
 To do go the app, below is a link.
 
-# https://prateek-works.github.io/superhero-hunter/
+https://shanat-q.github.io/Superhero-Hunter1/
